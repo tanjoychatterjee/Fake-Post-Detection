@@ -1,2 +1,5 @@
 # Fake-Post-Detection
 an application capable to detect fake post (Final year project)
+
+Now a days fake news are spreading fast and needs to eleminate it. More readeres shrug at the truth, as fake news spreads lies. This area is still at research area, as many research papers are submitting. New startup 'fact-mata.com' funded by google take inisiative on this topic. It is not an easy task as there is many definitions of fake news/posts. But there is some extent that can be possible by using ML models & some techniques to that computer understand the news as that is a vast material that a text involve. Logistic Regressions used to model to predict the probability of a certain class or event exsisting true of false binominal value. 
+We take an dataset of thirteen thousand news articles. Then we combine them and remove special characters, symbols, numbers from it. We use 15% of data to train our model and rest to test it. In the end out project concluded with 92% accuracy of detecting the news if it is real or fake one.
